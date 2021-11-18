@@ -105,6 +105,11 @@
     color: var(--hospital-green);
     text-decoration: none;
   }
+  .value {
+    color: var(--very-light-pink);
+    font-size: var(--md);
+    margin: 8px 0 32px 0;
+  }
   .primary-button {
     background-color: var(--hospital-green);
     border-radius: 8px;
